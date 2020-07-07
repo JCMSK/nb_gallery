@@ -1,4 +1,2 @@
 
-.DS_Store
-.ipynb_checkpoints/image_data_mha-checkpoint.ipynb
-.ipynb_checkpoints/subject_data-checkpoint.ipynb
+.*
