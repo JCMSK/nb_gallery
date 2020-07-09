@@ -18,6 +18,6 @@ Gallery of Jupyter notebooks representing use cases
 - The easy way: 
   - If you are not familiar with the Jupyter/python enviroment, watch [this tutorial](https://www.youtube.com/playlist?list=PLj8QFvBykB7fGEH274TlqhToqGd_Qxt1H)
   - Clone or download this repository (green botton `code` above)
-  - Open a notebook, run it, and then it with your own data!
+  - Open a notebook, run it, and then try it with your own data!
 
 
