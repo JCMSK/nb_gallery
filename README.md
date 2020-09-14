@@ -5,10 +5,10 @@ Gallery of Jupyter notebooks representing use cases
 
 ## List of notebooks in this repository: 
 
-| Notebook name | Description | Link on GitHub | Link to Binder
-| :---        |    :----:   |          ---: |
-| `subject_data.ipynb`      | It calculates descriptive statistics for a group of subjects from tabular data | https://github.com/JCMSK/nb_gallery/blob/master/subject_data.ipynb |
-|`image_data_mha.ipynb` | It extracts image spacing, size, and pixel type from a group of .mha images |https://github.com/JCMSK/nb_gallery/blob/master/image_data_mha.ipynb|
+| Notebook name | Description | Link on GitHub | Link to Binder |  
+| :---          | :----       | :---           | :---           |  
+| `subject_data.ipynb`      | It calculates descriptive statistics for a group of subjects from tabular data | https://github.com/JCMSK/nb_gallery/blob/master/subject_data.ipynb |  
+|`image_data_mha.ipynb` | It extracts image spacing, size, and pixel type from a group of .mha images |https://github.com/JCMSK/nb_gallery/blob/master/image_data_mha.ipynb|  
 
 
 ## How to explore the notebooks
