@@ -3,7 +3,7 @@
 
 Gallery of Jupyter notebooks representing use cases
 
-## List of notebooks in this repository: 
+## List of notebooks in this repository 
 
 | Notebook name | Description | Link on GitHub | Link to Binder |  
 | :---          | :----       | :---           | :---           |  
