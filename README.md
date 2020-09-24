@@ -7,9 +7,9 @@ Gallery of Jupyter notebooks representing use cases
 
 | Notebook name | Description | Open in this repository | Link to Binder |  
 | :---          | :----       | :---           | :---           |  
-| `subject_data.ipynb`      | It calculates descriptive statistics for a group of subjects from tabular data | [open](https://github.com/JCMSK/nb_gallery/blob/master/subject_data.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JCMSK/nb_gallery/master?filepath=subject_data.ipynb) | 
-|`image_data_mha.ipynb` | It extracts image spacing, size, and pixel type from a group of .mha images |[open](https://github.com/JCMSK/nb_gallery/blob/master/image_data_mha.ipynb)| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JCMSK/nb_gallery/master?filepath=image_data_mha.ipynb) |
-|`isq_io_viz.ipynb.ipynb` | Reading, writing, and visualizing .isq images|[open](https://github.com/JCMSK/nb_gallery/blob/master/isq_io_viz.ipynb)| Coming soon! |
+| subject_data.ipynb     | It calculates descriptive statistics for a group of subjects from tabular data | [open](https://github.com/JCMSK/nb_gallery/blob/master/subject_data.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JCMSK/nb_gallery/master?filepath=subject_data.ipynb) | 
+|image_data_mha.ipynb | It extracts image spacing, size, and pixel type from a group of .mha images |[open](https://github.com/JCMSK/nb_gallery/blob/master/image_data_mha.ipynb)| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JCMSK/nb_gallery/master?filepath=image_data_mha.ipynb) |
+|isq_io_viz.ipynb.ipynb | Reading, writing, and visualizing .isq images|[open](https://github.com/JCMSK/nb_gallery/blob/master/isq_io_viz.ipynb)| Coming soon |
 
 
 ## How to explore the notebooks
