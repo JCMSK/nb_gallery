@@ -1,0 +1,5 @@
+﻿scanner_id,meas_no,laterality,dominant hand,acquisition time (months),protocol ID,pat_age,pat_gender,pat_ethnicity,OA stage
+3000,1601,L,yes,0,SiteA_001,60,F,Asian,1
+3001,205,L,yes,6,SiteB_002,65,M,Caucasian,2
+3010,5006,L,no,12,SiteC_001,70,M,Asian,3
+3090,1840,L,yes,18,SiteD_004,55,F,Caucasian,4
