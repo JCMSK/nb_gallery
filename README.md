@@ -13,9 +13,11 @@ Gallery of Jupyter notebooks representing use cases
 
 ## Notebooks in other repositories 
 
-| Repository | Description | Open in this repository | Link to Binder |  
+| Repository | Description | Open in this repository | How to |  
 | :---          | :----       | :---           | :---           |  
-| ITKIOScanco     | An ITK module to read and write Scanco microCT .isq files.| [go to repository](https://github.com/KitwareMedical/ITKIOScanco)
+| ITKIOScanco     | An ITK module to read and write Scanco microCT .isq files.| [go to repository](https://github.com/KitwareMedical/ITKIOScanco)||
+| pyKNEEr     | An open and reproducible workflow for knee cartilage segmentation| [go to repository](https://github.com/sbonaretti/pyKNEEr)| Click on the *launch binder* badges|
+
 
 
 
