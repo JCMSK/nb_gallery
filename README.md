@@ -11,17 +11,7 @@ Gallery of Jupyter notebooks representing use cases
 |image_data_mha.ipynb | It extracts image spacing, size, and pixel type from a group of .mha images |[open](https://github.com/JCMSK/nb_gallery/blob/master/image_data_mha.ipynb)| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JCMSK/nb_gallery/master?filepath=image_data_mha.ipynb) |
 |isq_io_viz.ipynb | Reading, writing, and visualizing .isq images|[open](https://github.com/JCMSK/nb_gallery/blob/master/isq_io_viz.ipynb)| Coming soon |
 
-## Notebooks in other repositories 
-
-| Repository | Description | Open in this repository | Where to start exploring|  
-| :---          | :----       | :---           | :---           |  
-| ITKIOScanco     | An ITK module to read and write Scanco microCT .isq files.| [go to repository](https://github.com/KitwareMedical/ITKIOScanco)| Click on the *launch binder* badge |
-| pyKNEEr     | An open and reproducible workflow for knee cartilage segmentation| [go to repository](https://github.com/sbonaretti/pyKNEEr)| Click on the *launch binder* badges|
-
-
-
-
-## How to explore the notebooks in this repository
+### How to explore the notebooks in this repository
 
 - The very easy way: 
   - Go to binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JCMSK/nb_gallery/master)
@@ -32,5 +22,14 @@ Gallery of Jupyter notebooks representing use cases
   - If you are not familiar with the Jupyter/python enviroment, watch [this tutorial](https://www.youtube.com/playlist?list=PLj8QFvBykB7fGEH274TlqhToqGd_Qxt1H)
   - Clone or download this repository (green button `code` above)
   - Open a notebook, run it, and then try it with your own data!
+
+## Notebooks in other repositories 
+
+| Repository | Description | Open in this repository | Where to start exploring|  
+| :---          | :----       | :---           | :---           |  
+| ITKIOScanco     | An ITK module to read and write Scanco microCT .isq files.| [go to repository](https://github.com/KitwareMedical/ITKIOScanco)| Click on the *launch binder* badge |
+| pyKNEEr     | An open and reproducible workflow for knee cartilage segmentation| [go to repository](https://github.com/sbonaretti/pyKNEEr)| Click on the *launch binder* badges|
+
+
 
 
