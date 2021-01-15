@@ -3,7 +3,7 @@
 
 Gallery of Jupyter notebooks representing use cases
 
-## List of notebooks in this repository 
+## Notebooks in this repository 
 
 | Notebook name | Description | Open in this repository | Link to Binder |  
 | :---          | :----       | :---           | :---           |  
@@ -11,8 +11,15 @@ Gallery of Jupyter notebooks representing use cases
 |image_data_mha.ipynb | It extracts image spacing, size, and pixel type from a group of .mha images |[open](https://github.com/JCMSK/nb_gallery/blob/master/image_data_mha.ipynb)| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JCMSK/nb_gallery/master?filepath=image_data_mha.ipynb) |
 |isq_io_viz.ipynb | Reading, writing, and visualizing .isq images|[open](https://github.com/JCMSK/nb_gallery/blob/master/isq_io_viz.ipynb)| Coming soon |
 
+## Notebooks in other repositories 
 
-## How to explore the notebooks
+| Repository | Description | Open in this repository | Link to Binder |  
+| :---          | :----       | :---           | :---           |  
+| ITKIOScanco     | An ITK module to read and write Scanco microCT .isq files.| [go to repository](https://github.com/KitwareMedical/ITKIOScanco)
+
+
+
+## How to explore the notebooks in this repository
 
 - The very easy way: 
   - Go to binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JCMSK/nb_gallery/master)
